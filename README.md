@@ -1,2 +1,6 @@
-# Olympics-Data-Analysis
-This project analyzes Olympics data, offering year-wise medal trends, medal tallies for specific years, and country-specific performance insights. Users can explore how countries performed overall or in a particular year.
+# olympics-data-analysis-web-app
+A Streamlit web application for the analysis of olympics dataset
+
+Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+Live Demo: https://oda-campusx.herokuapp.com/

@@ -8,6 +8,6 @@ An interactive **Streamlit** web app to explore **120 years of Olympic Games his
 * 📈 Historical trends in sports, events & athletes
 
 🔗 Dataset: [Kaggle – 120 Years of Olympic History](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
-🔗 Live Demo: [Try it here](#)
+🔗 Live Demo: [Try it here](https://auritradey8-olympics-data-analysis-app-dakvyr.streamlit.app/)
 
 
